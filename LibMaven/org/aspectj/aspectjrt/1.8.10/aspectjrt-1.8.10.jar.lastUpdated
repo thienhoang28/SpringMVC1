@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun May 16 11:35:21 ICT 2021
+@default-spring-libs-release-https\://repo.spring.io/libs-release/.lastUpdated=1621139721555
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.aspectj\:aspectjrt\:jar\:1.8.10 from/to spring-libs-release (https\://repo.spring.io/libs-release)\: repo.spring.io
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1621139721508
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.aspectj\:aspectjrt\:jar\:1.8.10 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

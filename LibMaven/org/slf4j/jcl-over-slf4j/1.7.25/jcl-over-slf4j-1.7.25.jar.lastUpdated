@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 22 15:41:54 ICT 2021
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1621139721515
+http\://repo.spring.io/ext-release-local/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:jar\:1.7.25 from/to spring-ext (http\://repo.spring.io/ext-release-local/)\: Access denied to http\://repo.spring.io/ext-release-local/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar. Error code 403, Forbidden
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:jar\:1.7.25 from/to spring-snapshots (http\://repo.spring.io/snapshot)\: Access denied to http\://repo.spring.io/snapshot/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar. Error code 403, Forbidden
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:jar\:1.7.25 from/to spring-libs-release (https\://repo.spring.io/libs-release)\: repo.spring.io
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:jar\:1.7.25 from/to spring-milestones (http\://repo.spring.io/milestone)\: Access denied to http\://repo.spring.io/milestone/org/slf4j/jcl-over-slf4j/1.7.25/jcl-over-slf4j-1.7.25.jar. Error code 403, Forbidden
+@default-spring-libs-release-https\://repo.spring.io/libs-release/.lastUpdated=1621139721576
+@default-spring-snapshots-http\://repo.spring.io/snapshot/.lastUpdated=1621672914599
+@default-spring-milestones-http\://repo.spring.io/milestone/.lastUpdated=1621672914002
+@default-spring-ext-http\://repo.spring.io/ext-release-local/.lastUpdated=1621672913424
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.slf4j\:jcl-over-slf4j\:jar\:1.7.25 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
